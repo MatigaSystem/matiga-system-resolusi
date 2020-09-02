@@ -2,6 +2,8 @@ resolusi matiga system :
 - konsisten beljar tiap harinya
 - membuat aplikasi POS 
   - membuat dalam kerangka kerja VB.net
+    >> Menambahkan Crystal Report
+    >> Menambahkan Report PHP
   - Membaut dalam kerangka kerja C#
 - membuat CV secara legal dengan nama CV. MATIGA SYSTEM
 - kolaborasi dengan banyak expert
