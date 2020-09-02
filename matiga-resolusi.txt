@@ -7,6 +7,7 @@ resolusi matiga system :
   - Membaut dalam kerangka kerja C#
     >> Menambahkan Crytal Report
     >> Menambahkan Crunch Report
+- Membuat program menggunakan Flutter
 - Membuat project Web Marketplace
 - membuat CV secara legal dengan nama CV. MATIGA SYSTEM
 - kolaborasi dengan banyak expert
