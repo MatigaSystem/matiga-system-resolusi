@@ -5,6 +5,9 @@ resolusi matiga system :
     >> Menambahkan Crystal Report
     >> Menambahkan Report PHP
   - Membaut dalam kerangka kerja C#
+    >> Menambahkan Crytal Report
+    >> Menambahkan Crunch Report
+- Membuat project Web Marketplace
 - membuat CV secara legal dengan nama CV. MATIGA SYSTEM
 - kolaborasi dengan banyak expert
 - membuat chanel youtube
